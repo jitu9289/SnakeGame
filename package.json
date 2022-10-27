@@ -1,9 +1,0 @@
-{
-    "scripts": {
-        "start": "live-server"
-      },
-
-    "engines": {
-        "node":"16.18.0"
-    }
-}
